@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejxs67
 - 👀 I’m interested in Coding,Learning New Skills
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently looking for internships/real world experiences
 - 📫 How to reach me : tejasph1@gmail.com
 
 <!---
