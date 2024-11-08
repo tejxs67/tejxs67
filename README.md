@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Project Management System for my internship<br>👯 I’m looking to collaborate on Solana Radar Global Hackathon<br>🤝 I’m looking for help with Full Stack Web Development, Software Development<br>🌱 I’m currently learning NextJS<br>💬 Ask me about DSA, C algorithms, Java, AI<br>⚡ Fun fact 
+🔭 I’m currently working on Wallpaper App in React Native<br>👯 I’m looking to collaborate on Python Libraries and Web Development Projects<br>🤝 I’m looking for help with Full Stack Web Development, Software Development<br>🌱 I’m currently learning React Native & Python<br>💬 Ask me about DSA, C algorithms, Java, AI<br>⚡ Fun fact 
 
 
 ## 🌐 Socials:
